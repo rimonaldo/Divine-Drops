@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "divinedrops",
+
+    "public": "dist"
+  }
+}
