@@ -1,0 +1,15 @@
+store
+    products
+        product
+            id
+            category
+            description
+            price
+            stock
+            updatedAt
+            reviews
+                review
+                    content
+                    rating
+                numReviews
+                avgRating
